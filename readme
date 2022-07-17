@@ -1,0 +1,6 @@
+for login users
+create a dotenv file for the jwt token and please populate it with a random strings
+
+sample example
+
+JWT_KEY = ' '
